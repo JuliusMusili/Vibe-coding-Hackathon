@@ -175,6 +175,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Project Link**: [https://github.com/JuliusMusili/yummi-recipe-app](https://github.com/yourusername/yummi-recipe-app)
 - **Live Demo**: [https://yummi-smart-recipe-r-pxoh.bolt.host](https://yummi-smart-recipe-r-pxoh.bolt.host)
+- Loom video: (https://www.loom.com/share/87206d14d0c1413795b20937afac9d5a?sid=57a8890d-0272-4350-a7db-e22e86041eb6)
+- Gamma presentation: (https://gamma.app/docs/Yummi-Smart-Recipe-Revolutionizing-How-We-Cook-with-AI-7sgo1xr0x9zsmsv)
 
 ---
 
